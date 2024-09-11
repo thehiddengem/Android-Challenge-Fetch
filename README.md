@@ -14,4 +14,4 @@ This Android app is a solution for the Fetch Rewards coding exercise. It fetches
 - **Android AsyncTaskLoader**: For managing background tasks to fetch data from the API.
 - **HTTPURLConnection**: Used for network requests and fetching JSON data.
 - **JSON Parsing**: Handles parsing of JSON response into usable data.
-- **ArrayAdapter/ListView**: For rendering the sorted and filtered data in a user-friendly format.
+- **ArrayAdapter/ListView**: For rendering the sorted and filtered data in a user-friendly format.# Android-Challenge-Fetch
